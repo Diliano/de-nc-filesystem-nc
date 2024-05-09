@@ -13,5 +13,5 @@ else
   rm -rf nc-filesystem
 
   echo -e "$GREEN > Restoring nc-filesystem backup ✅$DEFAULT"
-  mkdir nc-filesystem && cp -r ./nc-filesystem-backup/ ./nc-filesystem/
+  mkdir nc-filesystem && cp -r ./nc-filesystem-backup/* ./nc-filesystem/
 fi
