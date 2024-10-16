@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/opt/homebrew/bin/bash
 
 if ls nc-filesystem/staff | grep -q "nc-$1.json"; then
     echo "Staff file found"
