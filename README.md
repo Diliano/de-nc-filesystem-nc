@@ -1,3 +1,5 @@
-# NC Filesystem
+# Data Engineering Bootcamp - Shell Scripting
 
-Instruction for today's sprint can be found at: https://l2c.northcoders.com/courses/de2-data/shell-scripting
+## Overview
+
+This repository contains work completed as part of the Shell Scripting Sprint during my Data Engineering Bootcamp. 
